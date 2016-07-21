@@ -7,3 +7,8 @@ html(style='background-image: url(https://unsplash.it/1920/1080?random); backgro
   head<br>
     title PAGE<br>
   body
+
+
+html<br>
+  body<br>
+    button(type='button', onclick='window.location.reload();') REFRESH<br>
